@@ -1,5 +1,6 @@
 # Crankk Discord Embed
-![image](https://github.com/sicXnull/Crankk-Discord-Embed/assets/31908995/211c3be4-50a2-4346-a8cc-261949a11952)
+![image](https://github.com/sicXnull/Crankk-Discord-Embed/assets/31908995/feef4bd6-e644-4042-ab89-2bce643619a0)
+
 
 
 ## Installation
